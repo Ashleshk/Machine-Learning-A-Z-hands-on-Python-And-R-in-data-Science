@@ -1,0 +1,27 @@
+Remember in Part 3 - Classification, we worked with datasets composed of
+ only two independent variables. We did for two reasons:
+
+Because we needed two dimensions to visualize better how Machine Learning 
+models worked (by plotting the prediction regions and the prediction boundary
+ for each model).
+Because whatever is the original number of our independent variables, we can 
+often end up with two independent variables by applying an appropriate
+Dimensionality Reduction technique.
+
+
+There are two types of Dimensionality Reduction techniques:
+
+Feature Selection
+Feature Extraction
+
+
+Feature Selection techniques are Backward Elimination, Forward Selection,
+ Bidirectional Elimination, Score Comparison and more. We covered these 
+techniques in Part 2 - Regression.
+
+In this part we will cover the following Feature Extraction techniques:
+
+Principal Component Analysis (PCA)
+Linear Discriminant Analysis (LDA)
+Kernel PCA
+Quadratic Discriminant Analysis (QDA)
