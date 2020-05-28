@@ -1,9 +1,7 @@
 # Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science
  Repository For Codes And  Concept Taught in Udemy Course
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
  ## Course Layout
  * **Part 1 - Data Preprocessing**
@@ -44,7 +42,7 @@
 
 ## Author
 
-[Ashlesh Khajbage](https://github.com/prithaupadhyay)
+[Ashlesh Khajbage](https://github.com/Ashleshk)
 
   
   
