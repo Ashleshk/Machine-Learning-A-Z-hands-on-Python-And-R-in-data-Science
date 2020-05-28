@@ -52,6 +52,10 @@
 
  * **Part 7 - Natural Language Processing**
     * Natural Language Processing
+        * Decision Tree
+        * Random Forest
+        * Max Entropy
+        
 <br/>
 
  * **Part 8 - Deep Learning**
