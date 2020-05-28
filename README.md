@@ -55,7 +55,7 @@
         * Decision Tree
         * Random Forest
         * Max Entropy
-        
+
 <br/>
 
  * **Part 8 - Deep Learning**
@@ -79,12 +79,18 @@
  * **Recommender System**
     * Similar Movies
     * Item Based Collabrative Filtering
+
+<br/>
+
  * **Tensorflow**
     * Keras-RNN
     * Keras-CNN
-    * handwriting Recognition
-    * Predict Political Party
+<br/>
 
+* **Projects**
+    * **handwriting Recognition**
+    * **Predict Political Party**
+    * **Fire Detection Project**
 
 ## Author
 
