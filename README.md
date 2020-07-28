@@ -115,6 +115,7 @@
 | **Image**        | **Name**           | **Designation**  |
 | :-------------: |:-------------:|:-----:|
 ![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
+|![Martin Jocqueviel](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/martin.jpg)| **Martin Jocqueviel**|Freelance data scientist|
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
