@@ -118,6 +118,11 @@
 |![Martin Jocqueviel](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/martin.jpg)| **Martin Jocqueviel**|Freelance data scientist|
 |![Hadelin de Ponteves](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/ponteves.jpg)|**Hadelin de Ponteves**|AI Entrepreneur|
 
+## Reference Links
+1. **Course Reference Thumbnail**
+
+![Course Description](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Description.PNG)
+
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
