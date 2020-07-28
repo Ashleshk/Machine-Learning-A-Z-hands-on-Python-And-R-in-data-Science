@@ -141,6 +141,8 @@
 
  > Course Link -> [Udemy](https://www.udemy.com/course/machinelearning/)
 
+ 5. **Similar Courses**
+ 
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
