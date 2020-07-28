@@ -135,6 +135,10 @@
 
 ![Certificate](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Certificate.PNG)
 
+ 4. **I am Extremely ThankFull For**
+
+ ![Udemy](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Udemy.PNG)
+
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
