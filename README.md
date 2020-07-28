@@ -128,6 +128,9 @@
 2. **Provided By**
 
 ![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/27129696_acc1.jpg)
+
+> **Note from Them** - We are the SuperDataScience Social team. You will be hearing from us when new SDS courses are released, when we publish new podcasts, blogs, share cheatsheets and more!.We are here to help you stay on the cutting edge of Data Science and Technology.
+
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
