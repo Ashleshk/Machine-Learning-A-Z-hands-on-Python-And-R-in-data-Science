@@ -139,6 +139,8 @@
 
  ![Udemy](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Udemy.PNG)
 
+ > Course Link -> [Udemy](https://www.udemy.com/course/machinelearning/)
+
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
