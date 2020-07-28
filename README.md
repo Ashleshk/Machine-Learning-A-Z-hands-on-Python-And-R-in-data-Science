@@ -125,6 +125,9 @@
 
  > [Udemy](https://www.udemy.com/course/machinelearning/)
 
+2. **Provided By**
+
+![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/27129696_acc1.jpg)
 ## Copyright
   
 Files available for redistribution and download only for educational purposes.
